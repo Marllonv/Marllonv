@@ -31,7 +31,6 @@ Natural de Pernambuco e graduado em **Análise e Desenvolvimento de Sistemas** p
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marllonv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marllonv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ---
