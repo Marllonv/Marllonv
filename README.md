@@ -16,17 +16,14 @@ Natural de Pernambuco e graduado em **Análise e Desenvolvimento de Sistemas** p
 | **Outros** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
-<!-- 
+
 ### 📌 Projetos em Destaque
-*Aqui estão alguns dos projetos que desenvolvi para aplicar meus conhecimentos:*
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Projeto1** |  |  | [Link Repo] |
-| **Projeto2** |  |  | [Link Repo] |
+| **Inventário Inteligente** | Sistema de gestão de estoque com Dashboard dinâmica, arquitetura MVC modular e autenticação segura via JWT. | `React 18` `PHP 8` `MySQL` `Tailwind` | [Repositório 🚀](https://github.com/SEU-USUARIO/inventory-app) |
 
 ---
---- -->
 
 ### 📫 Vamos nos conectar?
 
