@@ -21,7 +21,7 @@ Natural de Pernambuco e graduado em **Análise e Desenvolvimento de Sistemas** p
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Inventário Inteligente** | Sistema de gestão de estoque com Dashboard dinâmica, arquitetura MVC modular e autenticação segura via JWT. | `React 18` `PHP 8` `MySQL` `Tailwind` | [Repositório 🚀](https://github.com/SEU-USUARIO/inventory-app) |
+| **Inventário Inteligente** | Sistema de gestão de estoque com Dashboard dinâmica, arquitetura MVC modular e autenticação segura via JWT. | `React 18` `PHP 8` `MySQL` `Tailwind` | [Repositório 🚀](https://github.com/Marllonv/inventory-app) |
 
 ---
 
