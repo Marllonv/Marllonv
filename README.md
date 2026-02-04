@@ -25,15 +25,8 @@ Natural de Pernambuco e graduado em **Análise e Desenvolvimento de Sistemas** p
 | **Projeto1** |  |  | [Link Repo] |
 | **Projeto2** |  |  | [Link Repo] |
 
---- -->
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marllonv&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
-
 ---
+--- -->
 
 ### 📫 Vamos nos conectar?
 
