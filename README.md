@@ -25,6 +25,13 @@ Natural de Pernambuco e graduado em **Análise e Desenvolvimento de Sistemas** p
 
 ---
 
+### 📚 Atualmente focado em:
+- Especialização em **Laravel & Ecossistema PHP**
+- Desenvolvimento de aplicações escaláveis com **Next.js & TypeScript**
+- Automação de infraestrutura com **Docker**
+
+---
+
 ### 📫 Vamos nos conectar?
 
 <div align="left">
